@@ -20,6 +20,9 @@
     width: 170px;
     border: 1px solid black;
 }
+.darkblue{
+    background-color: #333366;
+}
 .hexCode {
     padding: 15px;
     text-align: center;
